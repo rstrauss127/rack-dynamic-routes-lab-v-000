@@ -1,2 +1,2 @@
 class Application
-  emd
+end
